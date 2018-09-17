@@ -16,4 +16,5 @@ javac Game.java
 java Game
 ```
 > Game developped using openjdk 10.0.2
+
 Done!
